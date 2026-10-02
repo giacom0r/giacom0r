@@ -1,0 +1,581 @@
+﻿GoalsScored,By,Against,HomeAway
+4,Liverpool,Bournemouth,Home
+2,Bournemouth,Liverpool,Away
+0,Aston Villa,Newcastle,Home
+0,Newcastle,Aston Villa,Away
+1,Brighton,Fulham,Home
+1,Fulham,Brighton,Away
+3,Sunderland,West Ham,Home
+0,West Ham,Sunderland,Away
+3,Tottenham,Burnley,Home
+0,Burnley,Tottenham,Away
+0,Wolves,Man City,Home
+4,Man City,Wolves,Away
+3,Nottingham Forest,Brentford,Home
+1,Brentford,Nottingham Forest,Away
+0,Chelsea,Crystal Palace,Home
+0,Crystal Palace,Chelsea,Away
+0,Man Utd,Arsenal,Home
+1,Arsenal,Man Utd,Away
+1,Leeds,Everton,Home
+0,Everton,Leeds,Away
+1,West Ham,Chelsea,Home
+5,Chelsea,West Ham,Away
+0,Man City,Tottenham,Home
+2,Tottenham,Man City,Away
+1,Bournemouth,Wolves,Home
+0,Wolves,Bournemouth,Away
+1,Brentford,Aston Villa,Home
+0,Aston Villa,Brentford,Away
+2,Burnley,Sunderland,Home
+0,Sunderland,Burnley,Away
+5,Arsenal,Leeds,Home
+0,Leeds,Arsenal,Away
+2,Everton,Brighton,Home
+0,Brighton,Everton,Away
+1,Crystal Palace,Nottingham Forest,Home
+1,Nottingham Forest,Crystal Palace,Away
+1,Fulham,Man Utd,Home
+1,Man Utd,Fulham,Away
+2,Newcastle,Liverpool,Home
+3,Liverpool,Newcastle,Away
+2,Chelsea,Fulham,Home
+0,Fulham,Chelsea,Away
+3,Man Utd,Burnley,Home
+2,Burnley,Man Utd,Away
+2,Sunderland,Brentford,Home
+1,Brentford,Sunderland,Away
+0,Tottenham,Bournemouth,Home
+1,Bournemouth,Tottenham,Away
+2,Wolves,Everton,Home
+3,Everton,Wolves,Away
+0,Leeds,Newcastle,Home
+0,Newcastle,Leeds,Away
+2,Brighton,Man City,Home
+1,Man City,Brighton,Away
+0,Nottingham Forest,West Ham,Home
+3,West Ham,Nottingham Forest,Away
+1,Liverpool,Arsenal,Home
+0,Arsenal,Liverpool,Away
+0,Aston Villa,Crystal Palace,Home
+3,Crystal Palace,Aston Villa,Away
+3,Arsenal,Nottingham Forest,Home
+0,Nottingham Forest,Arsenal,Away
+0,Crystal Palace,Sunderland,Home
+0,Sunderland,Crystal Palace,Away
+1,Fulham,Leeds,Home
+0,Leeds,Fulham,Away
+2,Bournemouth,Brighton,Home
+1,Brighton,Bournemouth,Away
+0,Everton,Aston Villa,Home
+0,Aston Villa,Everton,Away
+1,Newcastle,Wolves,Home
+0,Wolves,Newcastle,Away
+0,West Ham,Tottenham,Home
+3,Tottenham,West Ham,Away
+2,Brentford,Chelsea,Home
+2,Chelsea,Brentford,Away
+0,Burnley,Liverpool,Home
+1,Liverpool,Burnley,Away
+3,Man City,Man Utd,Home
+0,Man Utd,Man City,Away
+2,Liverpool,Everton,Home
+1,Everton,Liverpool,Away
+1,Wolves,Leeds,Home
+3,Leeds,Wolves,Away
+2,Brighton,Tottenham,Home
+2,Tottenham,Brighton,Away
+1,West Ham,Crystal Palace,Home
+2,Crystal Palace,West Ham,Away
+1,Burnley,Nottingham Forest,Home
+1,Nottingham Forest,Burnley,Away
+2,Man Utd,Chelsea,Home
+1,Chelsea,Man Utd,Away
+3,Fulham,Brentford,Home
+1,Brentford,Fulham,Away
+0,Bournemouth,Newcastle,Home
+0,Newcastle,Bournemouth,Away
+1,Sunderland,Aston Villa,Home
+1,Aston Villa,Sunderland,Away
+1,Arsenal,Man City,Home
+1,Man City,Arsenal,Away
+3,Brentford,Man Utd,Home
+1,Man Utd,Brentford,Away
+1,Chelsea,Brighton,Home
+3,Brighton,Chelsea,Away
+5,Man City,Burnley,Home
+1,Burnley,Man City,Away
+2,Leeds,Bournemouth,Home
+2,Bournemouth,Leeds,Away
+2,Crystal Palace,Liverpool,Home
+1,Liverpool,Crystal Palace,Away
+0,Nottingham Forest,Sunderland,Home
+1,Sunderland,Nottingham Forest,Away
+1,Tottenham,Wolves,Home
+1,Wolves,Tottenham,Away
+3,Aston Villa,Fulham,Home
+1,Fulham,Aston Villa,Away
+1,Newcastle,Arsenal,Home
+2,Arsenal,Newcastle,Away
+1,Everton,West Ham,Home
+1,West Ham,Everton,Away
+3,Bournemouth,Fulham,Home
+1,Fulham,Bournemouth,Away
+1,Leeds,Tottenham,Home
+2,Tottenham,Leeds,Away
+2,Man Utd,Sunderland,Home
+0,Sunderland,Man Utd,Away
+2,Arsenal,West Ham,Home
+0,West Ham,Arsenal,Away
+2,Chelsea,Liverpool,Home
+1,Liverpool,Chelsea,Away
+2,Aston Villa,Burnley,Home
+1,Burnley,Aston Villa,Away
+2,Everton,Crystal Palace,Home
+1,Crystal Palace,Everton,Away
+2,Newcastle,Nottingham Forest,Home
+0,Nottingham Forest,Newcastle,Away
+1,Wolves,Brighton,Home
+1,Brighton,Wolves,Away
+0,Brentford,Man City,Home
+1,Man City,Brentford,Away
+0,Nottingham Forest,Chelsea,Home
+3,Chelsea,Nottingham Forest,Away
+2,Sunderland,Wolves,Home
+0,Wolves,Sunderland,Away
+2,Burnley,Leeds,Home
+0,Leeds,Burnley,Away
+2,Man City,Everton,Home
+0,Everton,Man City,Away
+3,Crystal Palace,Bournemouth,Home
+3,Bournemouth,Crystal Palace,Away
+2,Brighton,Newcastle,Home
+1,Newcastle,Brighton,Away
+0,Fulham,Arsenal,Home
+1,Arsenal,Fulham,Away
+1,Tottenham,Aston Villa,Home
+2,Aston Villa,Tottenham,Away
+1,Liverpool,Man Utd,Home
+2,Man Utd,Liverpool,Away
+0,West Ham,Brentford,Home
+2,Brentford,West Ham,Away
+2,Leeds,West Ham,Home
+1,West Ham,Leeds,Away
+2,Newcastle,Fulham,Home
+1,Fulham,Newcastle,Away
+1,Chelsea,Sunderland,Home
+2,Sunderland,Chelsea,Away
+4,Man Utd,Brighton,Home
+2,Brighton,Man Utd,Away
+3,Brentford,Liverpool,Home
+2,Liverpool,Brentford,Away
+2,Bournemouth,Nottingham Forest,Home
+0,Nottingham Forest,Bournemouth,Away
+1,Arsenal,Crystal Palace,Home
+0,Crystal Palace,Arsenal,Away
+1,Aston Villa,Man City,Home
+0,Man City,Aston Villa,Away
+2,Wolves,Burnley,Home
+3,Burnley,Wolves,Away
+0,Everton,Tottenham,Home
+3,Tottenham,Everton,Away
+1,Sunderland,Everton,Home
+1,Everton,Sunderland,Away
+0,Burnley,Arsenal,Home
+2,Arsenal,Burnley,Away
+2,Crystal Palace,Brentford,Home
+0,Brentford,Crystal Palace,Away
+3,Fulham,Wolves,Home
+0,Wolves,Fulham,Away
+3,Brighton,Leeds,Home
+0,Leeds,Brighton,Away
+2,Nottingham Forest,Man Utd,Home
+2,Man Utd,Nottingham Forest,Away
+0,Tottenham,Chelsea,Home
+1,Chelsea,Tottenham,Away
+2,Liverpool,Aston Villa,Home
+0,Aston Villa,Liverpool,Away
+3,West Ham,Newcastle,Home
+1,Newcastle,West Ham,Away
+3,Man City,Bournemouth,Home
+1,Bournemouth,Man City,Away
+2,Tottenham,Man Utd,Home
+2,Man Utd,Tottenham,Away
+2,Everton,Fulham,Home
+0,Fulham,Everton,Away
+3,West Ham,Burnley,Home
+2,Burnley,West Ham,Away
+2,Sunderland,Arsenal,Home
+2,Arsenal,Sunderland,Away
+3,Chelsea,Wolves,Home
+0,Wolves,Chelsea,Away
+3,Nottingham Forest,Leeds,Home
+1,Leeds,Nottingham Forest,Away
+4,Aston Villa,Bournemouth,Home
+0,Bournemouth,Aston Villa,Away
+3,Brentford,Newcastle,Home
+1,Newcastle,Brentford,Away
+0,Crystal Palace,Brighton,Home
+0,Brighton,Crystal Palace,Away
+3,Man City,Liverpool,Home
+0,Liverpool,Man City,Away
+0,Burnley,Chelsea,Home
+2,Chelsea,Burnley,Away
+2,Brighton,Brentford,Home
+1,Brentford,Brighton,Away
+2,Bournemouth,West Ham,Home
+2,West Ham,Bournemouth,Away
+0,Man Utd,Everton,Home
+1,Everton,Man Utd,Away
+0,Liverpool,Nottingham Forest,Home
+3,Nottingham Forest,Liverpool,Away
+1,Fulham,Sunderland,Home
+0,Sunderland,Fulham,Away
+0,Wolves,Crystal Palace,Home
+2,Crystal Palace,Wolves,Away
+2,Newcastle,Man City,Home
+1,Man City,Newcastle,Away
+1,Leeds,Aston Villa,Home
+2,Aston Villa,Leeds,Away
+4,Arsenal,Tottenham,Home
+1,Tottenham,Arsenal,Away
+3,Man City,Leeds,Home
+2,Leeds,Man City,Away
+3,Sunderland,Bournemouth,Home
+2,Bournemouth,Sunderland,Away
+3,Brentford,Burnley,Home
+1,Burnley,Brentford,Away
+1,Everton,Newcastle,Home
+4,Newcastle,Everton,Away
+1,Tottenham,Fulham,Home
+2,Fulham,Tottenham,Away
+1,Crystal Palace,Man Utd,Home
+2,Man Utd,Crystal Palace,Away
+0,West Ham,Liverpool,Home
+2,Liverpool,West Ham,Away
+1,Aston Villa,Wolves,Home
+0,Wolves,Aston Villa,Away
+0,Nottingham Forest,Brighton,Home
+2,Brighton,Nottingham Forest,Away
+1,Chelsea,Arsenal,Home
+1,Arsenal,Chelsea,Away
+0,Bournemouth,Everton,Home
+1,Everton,Bournemouth,Away
+4,Fulham,Man City,Home
+5,Man City,Fulham,Away
+2,Newcastle,Tottenham,Home
+2,Tottenham,Newcastle,Away
+0,Wolves,Nottingham Forest,Home
+1,Nottingham Forest,Wolves,Away
+2,Arsenal,Brentford,Home
+0,Brentford,Arsenal,Away
+3,Brighton,Aston Villa,Home
+4,Aston Villa,Brighton,Away
+0,Burnley,Crystal Palace,Home
+1,Crystal Palace,Burnley,Away
+1,Liverpool,Sunderland,Home
+1,Sunderland,Liverpool,Away
+3,Leeds,Chelsea,Home
+1,Chelsea,Leeds,Away
+1,Man Utd,West Ham,Home
+1,West Ham,Man Utd,Away
+2,Aston Villa,Arsenal,Home
+1,Arsenal,Aston Villa,Away
+2,Newcastle,Burnley,Home
+1,Burnley,Newcastle,Away
+0,Bournemouth,Chelsea,Home
+0,Chelsea,Bournemouth,Away
+3,Everton,Nottingham Forest,Home
+0,Nottingham Forest,Everton,Away
+3,Man City,Sunderland,Home
+0,Sunderland,Man City,Away
+2,Tottenham,Brentford,Home
+0,Brentford,Tottenham,Away
+3,Leeds,Liverpool,Home
+3,Liverpool,Leeds,Away
+1,Brighton,West Ham,Home
+1,West Ham,Brighton,Away
+1,Fulham,Crystal Palace,Home
+2,Crystal Palace,Fulham,Away
+1,Wolves,Man Utd,Home
+4,Man Utd,Wolves,Away
+2,Liverpool,Brighton,Home
+0,Brighton,Liverpool,Away
+2,Chelsea,Everton,Home
+0,Everton,Chelsea,Away
+2,Burnley,Fulham,Home
+3,Fulham,Burnley,Away
+2,Arsenal,Wolves,Home
+1,Wolves,Arsenal,Away
+1,Sunderland,Newcastle,Home
+0,Newcastle,Sunderland,Away
+2,West Ham,Aston Villa,Home
+3,Aston Villa,West Ham,Away
+3,Nottingham Forest,Tottenham,Home
+0,Tottenham,Nottingham Forest,Away
+0,Crystal Palace,Man City,Home
+3,Man City,Crystal Palace,Away
+1,Brentford,Leeds,Home
+1,Leeds,Brentford,Away
+4,Man Utd,Bournemouth,Home
+4,Bournemouth,Man Utd,Away
+2,Newcastle,Chelsea,Home
+2,Chelsea,Newcastle,Away
+0,Brighton,Sunderland,Home
+0,Sunderland,Brighton,Away
+3,Man City,West Ham,Home
+0,West Ham,Man City,Away
+1,Bournemouth,Burnley,Home
+1,Burnley,Bournemouth,Away
+0,Wolves,Brentford,Home
+2,Brentford,Wolves,Away
+1,Tottenham,Liverpool,Home
+2,Liverpool,Tottenham,Away
+0,Everton,Arsenal,Home
+1,Arsenal,Everton,Away
+4,Leeds,Crystal Palace,Home
+1,Crystal Palace,Leeds,Away
+2,Aston Villa,Man Utd,Home
+1,Man Utd,Aston Villa,Away
+1,Fulham,Nottingham Forest,Home
+0,Nottingham Forest,Fulham,Away
+1,Man Utd,Newcastle,Home
+0,Newcastle,Man Utd,Away
+1,Nottingham Forest,Man City,Home
+2,Man City,Nottingham Forest,Away
+0,Burnley,Everton,Home
+0,Everton,Burnley,Away
+4,Brentford,Bournemouth,Home
+1,Bournemouth,Brentford,Away
+2,Arsenal,Brighton,Home
+1,Brighton,Arsenal,Away
+0,West Ham,Fulham,Home
+1,Fulham,West Ham,Away
+2,Liverpool,Wolves,Home
+1,Wolves,Liverpool,Away
+1,Chelsea,Aston Villa,Home
+2,Aston Villa,Chelsea,Away
+1,Sunderland,Leeds,Home
+1,Leeds,Sunderland,Away
+0,Crystal Palace,Tottenham,Home
+1,Tottenham,Crystal Palace,Away
+2,West Ham,Brighton,Home
+2,Brighton,West Ham,Away
+1,Burnley,Newcastle,Home
+3,Newcastle,Burnley,Away
+2,Chelsea,Bournemouth,Home
+2,Bournemouth,Chelsea,Away
+0,Nottingham Forest,Everton,Home
+2,Everton,Nottingham Forest,Away
+1,Man Utd,Wolves,Home
+1,Wolves,Man Utd,Away
+4,Arsenal,Aston Villa,Home
+1,Aston Villa,Arsenal,Away
+0,Liverpool,Leeds,Home
+0,Leeds,Liverpool,Away
+1,Crystal Palace,Fulham,Home
+1,Fulham,Crystal Palace,Away
+0,Sunderland,Man City,Home
+0,Man City,Sunderland,Away
+0,Brentford,Tottenham,Home
+0,Tottenham,Brentford,Away
+3,Aston Villa,Nottingham Forest,Home
+1,Nottingham Forest,Aston Villa,Away
+2,Brighton,Burnley,Home
+0,Burnley,Brighton,Away
+3,Wolves,West Ham,Home
+0,West Ham,Wolves,Away
+2,Bournemouth,Arsenal,Home
+3,Arsenal,Bournemouth,Away
+1,Leeds,Man Utd,Home
+1,Man Utd,Leeds,Away
+1,Tottenham,Sunderland,Home
+1,Sunderland,Tottenham,Away
+2,Newcastle,Crystal Palace,Home
+0,Crystal Palace,Newcastle,Away
+2,Everton,Brentford,Home
+4,Brentford,Everton,Away
+2,Fulham,Liverpool,Home
+2,Liverpool,Fulham,Away
+1,Man City,Chelsea,Home
+1,Chelsea,Man City,Away
+1,West Ham,Nottingham Forest,Home
+2,Nottingham Forest,West Ham,Away
+0,Crystal Palace,Aston Villa,Home
+0,Aston Villa,Crystal Palace,Away
+3,Brentford,Sunderland,Home
+0,Sunderland,Brentford,Away
+1,Everton,Wolves,Home
+1,Wolves,Everton,Away
+2,Fulham,Chelsea,Home
+1,Chelsea,Fulham,Away
+3,Bournemouth,Tottenham,Home
+2,Tottenham,Bournemouth,Away
+1,Man City,Brighton,Home
+1,Brighton,Man City,Away
+2,Burnley,Man Utd,Home
+2,Man Utd,Burnley,Away
+4,Newcastle,Leeds,Home
+3,Leeds,Newcastle,Away
+0,Arsenal,Liverpool,Home
+0,Liverpool,Arsenal,Away
+2,Man Utd,Man City,Home
+0,Man City,Man Utd,Away
+2,Chelsea,Brentford,Home
+0,Brentford,Chelsea,Away
+1,Leeds,Fulham,Home
+0,Fulham,Leeds,Away
+1,Liverpool,Burnley,Home
+1,Burnley,Liverpool,Away
+1,Tottenham,West Ham,Home
+2,West Ham,Tottenham,Away
+2,Sunderland,Crystal Palace,Home
+1,Crystal Palace,Sunderland,Away
+0,Nottingham Forest,Arsenal,Home
+0,Arsenal,Nottingham Forest,Away
+0,Wolves,Newcastle,Home
+0,Newcastle,Wolves,Away
+0,Aston Villa,Everton,Home
+1,Everton,Aston Villa,Away
+1,Brighton,Bournemouth,Home
+1,Bournemouth,Brighton,Away
+3,West Ham,Sunderland,Home
+1,Sunderland,West Ham,Away
+2,Burnley,Tottenham,Home
+2,Tottenham,Burnley,Away
+2,Fulham,Brighton,Home
+1,Brighton,Fulham,Away
+2,Man City,Wolves,Home
+0,Wolves,Man City,Away
+3,Bournemouth,Liverpool,Home
+2,Liverpool,Bournemouth,Away
+1,Crystal Palace,Chelsea,Home
+3,Chelsea,Crystal Palace,Away
+0,Brentford,Nottingham Forest,Home
+2,Nottingham Forest,Brentford,Away
+0,Newcastle,Aston Villa,Home
+2,Aston Villa,Newcastle,Away
+2,Arsenal,Man Utd,Home
+3,Man Utd,Arsenal,Away
+1,Everton,Leeds,Home
+1,Leeds,Everton,Away
+0,Leeds,Arsenal,Home
+4,Arsenal,Leeds,Away
+0,Wolves,Bournemouth,Home
+2,Bournemouth,Wolves,Away
+1,Brighton,Everton,Home
+1,Everton,Brighton,Away
+3,Chelsea,West Ham,Home
+2,West Ham,Chelsea,Away
+4,Liverpool,Newcastle,Home
+1,Newcastle,Liverpool,Away
+1,Nottingham Forest,Crystal Palace,Home
+1,Crystal Palace,Nottingham Forest,Away
+0,Aston Villa,Brentford,Home
+1,Brentford,Aston Villa,Away
+3,Man Utd,Fulham,Home
+2,Fulham,Man Utd,Away
+2,Tottenham,Man City,Home
+2,Man City,Tottenham,Away
+3,Sunderland,Burnley,Home
+0,Burnley,Sunderland,Away
+3,Leeds,Nottingham Forest,Home
+1,Nottingham Forest,Leeds,Away
+2,Man Utd,Tottenham,Home
+0,Tottenham,Man Utd,Away
+1,Bournemouth,Aston Villa,Home
+1,Aston Villa,Bournemouth,Away
+1,Fulham,Everton,Home
+2,Everton,Fulham,Away
+1,Wolves,Chelsea,Home
+3,Chelsea,Wolves,Away
+3,Arsenal,Sunderland,Home
+0,Sunderland,Arsenal,Away
+0,Burnley,West Ham,Home
+2,West Ham,Burnley,Away
+2,Newcastle,Brentford,Home
+3,Brentford,Newcastle,Away
+0,Brighton,Crystal Palace,Home
+1,Crystal Palace,Brighton,Away
+1,Liverpool,Man City,Home
+2,Man City,Liverpool,Away
+1,Everton,Bournemouth,Home
+2,Bournemouth,Everton,Away
+2,Chelsea,Leeds,Home
+2,Leeds,Chelsea,Away
+1,Tottenham,Newcastle,Home
+2,Newcastle,Tottenham,Away
+1,West Ham,Man Utd,Home
+1,Man Utd,West Ham,Away
+0,Nottingham Forest,Wolves,Home
+0,Wolves,Nottingham Forest,Away
+2,Crystal Palace,Burnley,Home
+3,Burnley,Crystal Palace,Away
+1,Aston Villa,Brighton,Home
+0,Brighton,Aston Villa,Away
+3,Man City,Fulham,Home
+0,Fulham,Man City,Away
+0,Sunderland,Liverpool,Home
+1,Liverpool,Sunderland,Away
+1,Brentford,Arsenal,Home
+1,Arsenal,Brentford,Away
+0,Brentford,Brighton,Home
+2,Brighton,Brentford,Away
+1,Chelsea,Burnley,Home
+1,Burnley,Chelsea,Away
+0,Everton,Man Utd,Home
+1,Man Utd,Everton,Away
+1,Aston Villa,Leeds,Home
+1,Leeds,Aston Villa,Away
+0,West Ham,Bournemouth,Home
+0,Bournemouth,West Ham,Away
+2,Man City,Newcastle,Home
+1,Newcastle,Man City,Away
+0,Nottingham Forest,Liverpool,Home
+1,Liverpool,Nottingham Forest,Away
+1,Crystal Palace,Wolves,Home
+0,Wolves,Crystal Palace,Away
+1,Sunderland,Fulham,Home
+3,Fulham,Sunderland,Away
+1,Tottenham,Arsenal,Home
+4,Arsenal,Tottenham,Away
+2,Wolves,Aston Villa,Home
+0,Aston Villa,Wolves,Away
+1,Bournemouth,Sunderland,Home
+1,Sunderland,Bournemouth,Away
+5,Liverpool,West Ham,Home
+2,West Ham,Liverpool,Away
+3,Burnley,Brentford,Home
+4,Brentford,Burnley,Away
+2,Newcastle,Everton,Home
+3,Everton,Newcastle,Away
+0,Leeds,Man City,Home
+1,Man City,Leeds,Away
+2,Fulham,Tottenham,Home
+1,Tottenham,Fulham,Away
+2,Brighton,Nottingham Forest,Home
+1,Nottingham Forest,Brighton,Away
+2,Man Utd,Crystal Palace,Home
+1,Crystal Palace,Man Utd,Away
+2,Arsenal,Chelsea,Home
+1,Chelsea,Arsenal,Away
+0,Bournemouth,Brentford,Home
+0,Brentford,Bournemouth,Away
+0,Leeds,Sunderland,Home
+1,Sunderland,Leeds,Away
+2,Everton,Burnley,Home
+0,Burnley,Everton,Away
+2,Wolves,Liverpool,Home
+1,Liverpool,Wolves,Away
+0,Fulham,West Ham,Home
+1,West Ham,Fulham,Away
+0,Brighton,Arsenal,Home
+1,Arsenal,Brighton,Away
+2,Man City,Nottingham Forest,Home
+2,Nottingham Forest,Man City,Away
+1,Aston Villa,Chelsea,Home
+4,Chelsea,Aston Villa,Away
+2,Newcastle,Man Utd,Home
+1,Man Utd,Newcastle,Away
+1,Tottenham,Crystal Palace,Home
+3,Crystal Palace,Tottenham,Away
